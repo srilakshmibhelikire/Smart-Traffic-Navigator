@@ -40,7 +40,7 @@ Minimum travel time
 
 Step 1: Repository link
 
-https://github.com/srilakshmibhelikire/Smart-Traffic-Navigator is this my github link
+https://github.com/srilakshmibhelikire/Smart-Traffic-Navigator 
 
 Step 2: Install Requirements
 
