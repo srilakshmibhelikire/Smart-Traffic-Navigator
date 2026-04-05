@@ -56,6 +56,7 @@ Real-time traffic data integration
 Google Maps API integration
 Mobile app version
 More accurate AI models
+
 👩‍💻 Author
 
 Sri Lakshmi Bhelikire
